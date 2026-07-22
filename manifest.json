@@ -1,0 +1,10 @@
+{
+    "name": "XINNET-Interactive-Browser",
+    "display_name": "XINNET 拟真同层浏览器",
+    "version": "1.0.0",
+    "description": "在 SillyTavern 界面同层弹出一个拟真手机样式的 AI 搜索浏览器",
+    "author": "YourName",
+    "js": ["index.js"],
+    "css": ["style.css"],
+    "optional": false
+}
