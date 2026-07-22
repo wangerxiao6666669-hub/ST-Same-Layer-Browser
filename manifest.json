@@ -1,0 +1,10 @@
+{
+    "name": "同层浏览器",
+    "display_name": "Same Layer Browser",
+    "version": "1.0.0",
+    "description": "在酒馆内开启一个悬浮窗，不打断聊天流生成内容。",
+    "author": "Shirlyn",
+    "js": ["index.js"],
+    "css": ["style.css"],
+    "optional": false
+}
